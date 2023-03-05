@@ -1,2 +1,2 @@
-# Visualization-od-Superstore-Dataset
+# Visualization-of-Superstore-Dataset
 Power BI
